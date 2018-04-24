@@ -13,3 +13,5 @@ ZCZC W05 yey
 ZCZC W06 yey
 
 ZCZC W07 
+
+ZCZC W08 sudah demo
